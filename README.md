@@ -17,5 +17,4 @@ A simple RESTful API built with Node.js and Express.js for managing books and us
 - **Auth:** JWT (JSON Web Token), bcrypt
 - **Dev Tools:** Nodemon, ESLint
 
-## 📁 Project Structure
 
